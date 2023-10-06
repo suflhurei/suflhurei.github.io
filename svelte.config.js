@@ -5,6 +5,7 @@ const config = {
   kit: {
     adapter: adapter()
   },
+  extensions: ['.svelte', '.md'],
   preprocess: vitePreprocess()
 };
 export default config;

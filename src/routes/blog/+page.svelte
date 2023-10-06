@@ -1,5 +1,6 @@
 <script lang="ts">
 	export let data;
+	console.log(data)
 </script>
 
 <div
@@ -7,10 +8,11 @@
 >
 	<a href="/" class="font-bold"><span class="text-primary">Odd</span>baijanian</a>
 	<div class=" flex gap-10">
-		<a href="/about" class="font-normal">About</a>
+		<!-- <a href="/about" class="font-normal">About</a> -->
 		<a href="/blog" class="font-normal">Blog</a>
 	</div>
 </div>
+
 
 <div class="flex w-full flex-col min-h-screen px-32">
 	<div class="flex justify-start text-2xl mt-12 px-4 text-text">
@@ -45,3 +47,4 @@
 		{/each}
 	</div>
 </div>
+
