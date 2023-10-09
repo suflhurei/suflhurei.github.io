@@ -27,14 +27,14 @@ export const load = async () => {
         const frontmatter = ast.attributes.frontmatter
             ? (yaml.load(ast.attributes.frontmatter) as Frontmatter)
             : {}
-            
-
+                
             return {
                 path: realName,
                 title: frontmatter.title,
                 author: frontmatter.author,
                 date: frontmatter.date,
                 categories: frontmatter.categories?.split(','),
+                description: frontmatter.description
                 }; 
 
     });

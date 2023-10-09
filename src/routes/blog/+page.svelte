@@ -1,6 +1,5 @@
 <script lang="ts">
 	export let data;
-	console.log(data)
 </script>
 
 <div
@@ -40,7 +39,7 @@
 							>
 						{/each}
 					</p>
-					<p class="text-text">{post.desc}</p>
+					<p class="text-text">{post.description}</p>
 				</span>
 				<span class="border-b-2 border-b-primary w-full border-dashed px-2 mt-4 mb-8" />
 			</div>
