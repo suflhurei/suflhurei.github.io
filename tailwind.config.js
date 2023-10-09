@@ -5,11 +5,11 @@ export default {
     extend: {},
     colors: {
       'text': '#ffffff',
-      'background': '#090909',
-      'primary': '#5d4de1',
-      'secondary': '#2974c9',
+      'background': '#070707',
+      'primary': '#577cc6',
+      'secondary': '#8a9fc8',
       'link': '#9D92ED',
-      'accent': '#19134b',
+      'accent': '#8a9fc8',
      },
      fontSize: {
       '2xl': '2rem',

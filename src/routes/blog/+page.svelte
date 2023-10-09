@@ -6,7 +6,7 @@
 <div
 	class="flex justify-between px-8 text-text min-w-screen h-10 items-center border-b-2 border-b-primary border-dashed"
 >
-	<a href="/" class="font-bold"><span class="text-primary">Odd</span>baijanian</a>
+	<a href="/" class="font-bold"><span class="text-primary">Ghurkanis</span> Investigative Notes</a>
 	<div class=" flex gap-10">
 		<!-- <a href="/about" class="font-normal">About</a> -->
 		<a href="/blog" class="font-normal">Blog</a>
@@ -25,10 +25,10 @@
 				<a href="/blog/{post.path}" class="text-text font-semibold text-2xl hover:cursor-pointer"
 					>{post.title}</a
 				>
-				<span class="text-normal text-link no-underline text-sm">
+				<span class="text-normal no-underline text-sm text-secondary">
 					<p><span class="text-text">Author:</span> {post.author}</p></span
 				>
-				<span class="text-normal text-link no-underline text-sm">
+				<span class="text-normal no-underline text-sm text-secondary">
 					<p><span class="text-text">Uploaded At:</span> {post.date}</p></span
 				>
 				<span class="text-normal text-link no-underline text-sm">
