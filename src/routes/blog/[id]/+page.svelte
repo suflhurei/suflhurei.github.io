@@ -27,7 +27,7 @@
 	<div
 		class="flex justify-between px-8 text-text min-w-screen h-10 items-center border-b-2 border-b-primary border-dashed"
 	>
-		<a href="/" class="font-bold"><span class="text-primary">Odd</span>baijanian</a>
+		<a href="/" class="font-bold"><span class="text-primary">Ghurkanis</span> Investigative Notes</a>
 		<div class=" flex gap-10">
 			<!-- <a href="/about" class="font-normal">About</a> -->
 			<a href="/blog" class="font-normal">Blog</a>
