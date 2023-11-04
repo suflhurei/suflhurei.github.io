@@ -7,7 +7,7 @@
 		class="rounded-full border-2 border-primary border-dashed"
 	/>
 
-	<p class="text-text mt-2">flare</p>
+	<p class="text-text mt-2">GIN - Ghurkan</p>
 	<div
 		class="w-48 h-12 text-text flex flex-row items-center justify-center mt-4 border-2 border-dashed border-primary gap-4"
 	>
