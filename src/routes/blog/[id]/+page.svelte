@@ -7,87 +7,51 @@
 	const html = Markdoc.renderers.html(content);
 	type Frontmatter = {
 		title?: string;
-		author?: string;
-		date?: Date;
-		categories?: string | Array<string>;
-		description?: string;
+        author?: string;
+        date?: Date;
+        description?: string;
+        thumbnail?: string
 	};
-
 	const frontmatter = ast.attributes.frontmatter
 		? (yaml.load(ast.attributes.frontmatter) as Frontmatter)
 		: {};
-
-	if (frontmatter.categories) {
-		const hashtag = frontmatter.categories.split(',');
-		frontmatter.categories = hashtag;
-	}
 </script>
-
-<div class="flex flex-col min-h-screen">
-	<div
-		class="flex justify-between px-8 text-text min-w-screen h-10 items-center border-b-2 border-b-primary border-dashed"
-	>
-		<a href="/" class="font-bold"><span class="text-primary">Ghurkanis</span> Investigative Notes</a>
-		<div class=" flex gap-10">
-			<!-- <a href="/about" class="font-normal">About</a> -->
-			<a href="/blog" class="font-normal">Blog</a>
-		</div>
-	</div>
-
-	<div class="overflow-hidden w-full min-h-screen flex justify-center items-center">
-		<article class="prose prose-h1:text-text prose-strong:text-text text-text">
-			<span class="flex flex-row gap-2 text-center text-2xl font-semibold text-primary">
-				{frontmatter.title}
-			</span>
-			<span class="flex flex-row gap-2">
-				<svg
-					xmlns="http://www.w3.org/2000/svg"
-					width="22"
-					height="22"
-					viewBox="0 0 24 24"
-					fill="none"
-					stroke="#5d4de1"
-					stroke-width="2"
-					stroke-linecap="round"
-					stroke-linejoin="round"
-					class="lucide lucide-user"
-					><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2" /><circle
-						cx="12"
-						cy="7"
-						r="4"
-					/></svg
-				>
-				{frontmatter.author}
-			</span>
-			<span class="flex flex-row gap-2">
-				<svg
-					xmlns="http://www.w3.org/2000/svg"
-					width="22"
-					height="22"
-					viewBox="0 0 24 24"
-					fill="none"
-					stroke="#5d4de1"
-					stroke-width="2"
-					stroke-linecap="round"
-					stroke-linejoin="round"
-					class="lucide lucide-calendar"
-					><rect width="18" height="18" x="3" y="4" rx="2" ry="2" /><line
-						x1="16"
-						x2="16"
-						y1="2"
-						y2="6"
-					/><line x1="8" x2="8" y1="2" y2="6" /><line x1="3" x2="21" y1="10" y2="10" /></svg
-				>
-				{frontmatter.date}
-			</span>
-			<span class="flex flex-row mt-2 gap-2 mb-2">
-				{#each frontmatter.categories as category}
-					<a href="/" class="text-secondary hover:underline no-underline hover:cursor-pointer"
-						>#{category}</a
-					>
-				{/each}
-			</span>
-			{@html html}
-		</article>
+<div
+	class="flex justify-between px-8 text-text min-w-screen h-10 items-center bg-bgsecondary shadow-xl"
+>
+	<a href="/" class="font-bold">odd</a>
+	<div class=" flex gap-10">
+		<a href="/blog" class="font-normal">Blog</a>
 	</div>
 </div>
+<div class="p-8 w-full flex flex-col items-center min-h-screen mt-4">
+	<div class="max-w-45 flex flex-col flex-wrap justify-center">
+		<div class="relative">
+			<div class="flex max-w-[45rem] flex-wrap rounded-b-sm rounded-t-sm h-[20rem] max-h-[20rem] bg-cover" style="background-image: url('{frontmatter.thumbnail}');">
+				<div class="w-full h-[10rem] bg-gradient-to-t  from-bgsecondary via-bgsecondary to-transparent bottom-0 rounded-b-sm absolute text-text">
+					<div class="ml-2 absolute bottom-0 text-[1rem] mb-2">
+						<p>{frontmatter.title}</p>
+	
+						<p class="text-[.80rem] mt-2 text-text">
+							{frontmatter.date?.toLocaleString()}
+						</p>
+						<p class="text-[.80rem] mt-2 max-w-[25rem] text-[#a8a8a8]">
+							{frontmatter.description}
+						</p>
+				</div>
+				</div>
+			</div>
+		</div>
+		<div class="text-center mt-2 ">
+				<p class="text-text"> Article </p>
+		</div>
+		<div class="flex flex-wrap rounded-sm bg-bgsecondary mt-2 text-text px-12 py-12 max-w-[45rem]">
+			<div class="flex flex-wrap">
+				{@html html}
+			</div>
+
+			<p class="flex flex-start mt-4 text-sm text-[#a8a8a8]">by: {frontmatter.author}</p>
+		</div>
+	</div>
+</div>
+

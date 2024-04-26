@@ -5,17 +5,13 @@ export default {
     extend: {},
     colors: {
       'text': '#ffffff',
-      'background': '#070707',
-      'primary': '#577cc6',
-      'secondary': '#8a9fc8',
+      'background': '#090909',
+      'bgsecondary': '#141414',
+      'primary': '#5d4de1',
+      'secondary': '#2974c9',
       'link': '#9D92ED',
-      'accent': '#8a9fc8',
-     },
-     fontSize: {
-      '2xl': '2rem',
-      '9xl': '10rem'
+      'accent': '#19134b',
      }
-     
   },
   plugins: [
     require('@tailwindcss/typography'),

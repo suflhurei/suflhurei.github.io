@@ -20,8 +20,9 @@ export const load = async () => {
             title?: string;
             author?: string;
             date?: Date;
-            categories?: string;
+           //categories?: string;
             description?: string;
+            thumbnail?: string
         };
     
         const frontmatter = ast.attributes.frontmatter
@@ -33,8 +34,9 @@ export const load = async () => {
                 title: frontmatter.title,
                 author: frontmatter.author,
                 date: frontmatter.date,
-                categories: frontmatter.categories?.split(','),
-                description: frontmatter.description
+                // categories: frontmatter.categories?.split(','),
+                description: frontmatter.description,
+                thumbnail: frontmatter.thumbnail
                 }; 
 
     });

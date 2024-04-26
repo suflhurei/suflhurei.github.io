@@ -1,9 +1,11 @@
+---
 title: The Banjska Attack - Notes On An Increasingly Tense Conflict
 author: Zen Ghurkan
 date: 2023-10-08
-categories: europe, serbia, kosovo, ukraine, russia, human rights, terrorism, albania, balkans
-
 description: A brief analysis on recent events in Syria leading up to the escalation of clashes between Palestine and Israel. a description of Assad's position prior to the isolated bombings of Goulan Height
+thumbnail: https://www.heritagedaily.com/wp-content/uploads/2021/12/shutterstock-334981871-scaled.jpg
+---
+
 
 The Banjska attack – notes on an increasingly tense conflict.
 
@@ -22,4 +24,3 @@ The EU has accepted this attack as a terrorist attack in Kosovo’s sovereign te
 Jens Stoltenberg – the NATO Secretary-General has expressed his concern over the recent terrorist attack, and assures a readiness to preserve peace in Kosovo, but once the question must be put forward – is lip service enough?
 	The Russo-Ukrainian war rages on yet it is of paramount importance to put a check on the aggressive actions of Serbia by the EU and NATO. Peace in the Balkans is peace in Europe, and a strong European response is the solution for a safer Europe. 
 
---Zen Ghurkan (08/10/2023)

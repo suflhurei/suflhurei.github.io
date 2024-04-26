@@ -4,6 +4,7 @@ author: Zen Ghurkan
 date: 2023-10-01T19:52:38.022Z
 categories: middle east, syria, idlib, ukraine, russia, human rights, erdogan, YPG, HTS, Daesh, Hezbollah
 description: A brief analysis on recent events in Syria leading up to the escalation of clashes between Palestine and Israel. a description of Assad's position prior to the isolated bombings of Goulan Heights.
+thumbnail: https://s26162.pcdn.co/wp-content/uploads/2017/03/library-of-alexandria-about-1240x762.jpg
 ---
 
 A brief timeline of events:
