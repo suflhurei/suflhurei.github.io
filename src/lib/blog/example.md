@@ -2,7 +2,6 @@
 title: what's binary, what does it do?
 author: gin
 date: 2023-10-01T19:52:38.022Z
-hashtag: coding,cs,tech
 description: Binary describes a numbering scheme in which there are only two possible values for each digit
 thumbnail: https://i.pinimg.com/564x/0d/4c/5c/0d4c5c014d5eb6df74f3f312cbbf76b2.jpg
 ---
