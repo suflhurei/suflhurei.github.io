@@ -1,7 +1,7 @@
 ---
 title: The Banjska Attack - Notes On An Increasingly Tense Conflict
 author: Zen Ghurkan
-date: 2023-10-08
+date: 2023-08-10
 description: A brief analysis on recent events in Kosovo, following a Serbian terrorist attack.
 thumbnail: https://www.heritagedaily.com/wp-content/uploads/2021/12/shutterstock-334981871-scaled.jpg
 ---

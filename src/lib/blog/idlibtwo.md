@@ -1,7 +1,7 @@
 ---
 title: Massacres & Resistance in Idlib.
 author: Zen Ghurkan
-date: 2023-08-10
+date: 2023-10-08
 description: Idlib following the Homs graduation drone strike. A brief timeline of Assad's discriminatory campaign against the people of Idlib and the Syrian resistance.
 thumbnail: https://i.imgur.com/UsEVYgR.png
 ---
