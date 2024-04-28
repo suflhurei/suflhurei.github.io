@@ -8,7 +8,7 @@
 	/>
 
 	<p class="text-text mt-2">gin</p>
-	<p class="text-[#a8a8a8] text-sm">a nerd detective</p>
+	<p class="text-[#a8a8a8] text-sm">Prophesying Asabiya - Detective</p>
 	
 	<div
 		class="w-48 h-12 text-text flex flex-row items-center justify-center rounded-md gap-4"
