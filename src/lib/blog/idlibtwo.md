@@ -54,4 +54,4 @@ The bombing of Damascus and Aleppo airports by the IDF suggests that the ceasefi
 
 While all of these suggest that the ceasefire will most likely last, the volatility of Syria and the opportunistic nature of Assad can not be ignored, with Turkish support being tunnel-visioned to Syrian National Army units and Arab tribes combatting the Syrian Democratic Forces in the North-East of Syria (Rojova).
 
--Zen Ghurkan. (12/10/23)
+Zen Ghurkan 12 10 23

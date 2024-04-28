@@ -30,8 +30,11 @@ The crux of this issue is the fundamental right to choose and to freely decide o
 
 In conclusion, as we celebrate International Women's day, let us make a commitment to remember the struggles of Uyghur women in East Turkestan. Their fight is a testament to the ongoing struggle for women’s rights across the globe. International women’s day should not only be a day of celebration, but one of action. Let this be a day of reflection, action, and unity, where we learn about the oppression of women throughout history, apply these lessons to the present, and use them to help the fate of Uyghur women.
 
+
 sources:
 
 https://www.reuters.com/world/china/un-says-concerned-about-lack-women-chinas-top-government-2023-05-31/
 
 https://xinjiang.sppga.ubc.ca/critical-scholarship/academic-publications/uyghur-women-in-chinas-genocide/
+
+Zen Ghurkan 25 04 2024

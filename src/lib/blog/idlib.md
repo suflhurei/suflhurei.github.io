@@ -21,7 +21,7 @@ While the role of Türkiye is central to our understanding of why the conflict i
 
 We can group the the opposing groups into four blocs:
 
-1   Bashar Al-Assad. The President of Syria and the commander of the SSA who retains control of most of Syria except the Idlib governate, the northern Aleppo governate and the Kurdish region in the Northeast known as Rojava. He is backed by Russia and Iran
+1.   Bashar Al-Assad. The President of Syria and the commander of the SSA who retains control of most of Syria except the Idlib governate, the northern Aleppo governate and the Kurdish region in the Northeast known as Rojava. He is backed by Russia and Iran
 2.	The SDF. An umbrella group lead by the YPG. It controls Rojava and conflicts with the Turkish government and therefore the SNA. The SDF is backed by the US.
 3.	The SNA rebels. An umbrella group consisting of many rebel groups based in northern Aleppo. They are backed and protected by the Turkish armed forces and engage in conflicts against the YPG.
 4.	The Islamist groups within Idlib. The official government of Idlib is called the Syrian Salvation Government and consists of many native Syrian groups and foreign groups (commonly referred to as Muhajir). They are de facto led by HTS and its leader – Muhammed Julani. They have no substantial backers, but can rely on Turkish protection to some degree, and have received funding from Saudi Arabia and Qatar in the past.
@@ -44,4 +44,4 @@ The consistent and reliable use of drones have been pre-eminent in the Syrian co
 
 While it seems that this conflict may last longer and be bloodier than previous conflicts following the general stabilisation of lines of control post-2016, there are several factors and actors which may unfold unpredictably. Chief among these unpredictable actors are HTS and other Jihadist groups affiliated with them. Exceptional attention must be given to these said actors, as they hold a large stake in the affairs of Syria.
 
---Zen Ghurkan (06/10/2023)
+Zen Ghurkan 06 10 2023
