@@ -1,5 +1,5 @@
 ---
-title: Beyond Commemoration: The Plight of Uyghur Women on International Women's Day
+title: Beyond Commemoration The Plight of Uyghur Women on International Women's Day
 author: Zen Ghurkan
 date: 2023-10-08
 description: The hypocrisy of feminism when it comes to uyghur and muslim women
