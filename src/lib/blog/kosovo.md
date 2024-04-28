@@ -30,4 +30,4 @@ Jens Stoltenberg – the NATO Secretary-General has expressed his concern over t
 
 The Russo-Ukrainian war rages on yet it is of paramount importance to put a check on the aggressive actions of Serbia by the EU and NATO. Peace in the Balkans is peace in Europe, and a strong European response is the solution for a safer Europe. 
 
-Zen Ghurkan 8 10 2023
+8/10/2023

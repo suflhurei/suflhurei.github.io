@@ -44,4 +44,4 @@ The consistent and reliable use of drones have been pre-eminent in the Syrian co
 
 While it seems that this conflict may last longer and be bloodier than previous conflicts following the general stabilisation of lines of control post-2016, there are several factors and actors which may unfold unpredictably. Chief among these unpredictable actors are HTS and other Jihadist groups affiliated with them. Exceptional attention must be given to these said actors, as they hold a large stake in the affairs of Syria.
 
-Zen Ghurkan 06 10 2023
+06/10/2023
