@@ -19,7 +19,7 @@
 <div
 	class="flex justify-between px-8 text-text min-w-screen h-10 items-center bg-bgsecondary shadow-xl"
 >
-	<a href="/" class="font-bold">odd</a>
+	<a href="/" class="font-bold">gin</a>
 	<div class=" flex gap-10">
 		<a href="/blog" class="font-normal">Blog</a>
 	</div>
