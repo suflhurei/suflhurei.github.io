@@ -1,7 +1,7 @@
 ---
 title: The Assad Regime, Captagon Trade, Militant Groups and Global Implications
 author: Zen Ghurkan
-date: 2024-27-04
+date: 2024-04-27
 description: The Captagon trade under Assad and Hezbalat
 thumbnail: https://the-cradle-media.s3.eu-west-1.amazonaws.com/wp-content/uploads/2023/06/Syria-Saudi-Arabia-Captagon.jpg
 ---

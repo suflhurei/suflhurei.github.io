@@ -1,7 +1,7 @@
 ---
 title: I love Bulbasaur!
 author: Zen Ghurkan
-date: 2024-27-04
+date: 2024-04-27
 description: Bulbasaur supremacy!
 thumbnail: https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/12/Pokemon-Adventures-Manga-Red-With-Pokemon-Trio.jpg
 ---

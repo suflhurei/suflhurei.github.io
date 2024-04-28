@@ -1,7 +1,7 @@
 ---
 title: The Abandoned Iraqi - Why “Baqiya” is an unflinching promise
 author: Zen Ghurkan
-date: 2024-27-04
+date: 2024-04-27
 description: Iraq and Insurgency, the prophecy of a state
 thumbnail: https://diyaruna.com/cnmi_di/images/2017/08/16/9216-ISIS-child-soldiers-700_496.jpg
 ---
