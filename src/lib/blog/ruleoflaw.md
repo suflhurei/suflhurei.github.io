@@ -22,6 +22,7 @@ Layout will be as follows:
         - Imperial Tradition - Rome & Carthage Never Fell: 
 
         - The Enlightenment
+        
 
     The Enlightened Percieve of Neo-Divinity: 
 
@@ -29,7 +30,8 @@ Layout will be as follows:
 
         - The Divine Right of Kings Rebranded: 
 
-        -Our Pristine Aesthetic: 
+        - Our Pristine Aesthetic: 
+
 
     It All Comes Tumbling Down:
 
