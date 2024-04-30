@@ -1,5 +1,5 @@
 ---
-title: A conflict Frozen or a Conflict Risen? A Brief Analysis on Recent Hostilities. 
+title: A Conflict Frozen or Reawakened? A Brief Analysis on Recent Hostilities in Idlib
 author: Zen Ghurkan
 date: 2023-10-06
 description: A brief analysis on recent events in Syria leading up to the escalation of clashes between Palestine and Israel. a description of Assad's position prior to the isolated bombings of Goulan Heights.
