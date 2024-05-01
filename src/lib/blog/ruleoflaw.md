@@ -17,16 +17,27 @@ Prologos - Introduction:
 
 
 Arc 1 - The Enlightened Slaughter Divinity - A Cyclical Chronicle:
+
     - Part One: Imperial Tradition: Rome Never Fell:
+
     - Part Two: The Despotic Church:
+
     - Part Three: The Pen & The Sword: The Enlightenment & the French Revolution:
+
 Arc 2 - The Enlightened Perceive of Neo-Divinity:
+
     - Part One: Death & Resurrection: The Divine to Neo-Divine:
+
     - Part Two: Accept our Civilisation - Don’t Resist:
+
     - Part Three: Our Pristine Aesthetic:
+
 Arc 3 - It All Comes Tumbling Down:
+
     - The Mask Cracks - Trouble in the Holy Land:
+
     - The Eastern Barbarian:
+    
     - Ashes to Ashes:
 
 Epilogos - Conclusion
