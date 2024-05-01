@@ -10,7 +10,7 @@ To be Published:
 
 This work will likely consist of a series of articles seperated into chapters. I am currently in the process of writing it down. The name is a placeholder for now, and is subject to change. This work is an expression of internal musings following years of reading about civilisation, history, politics, anthropology, and my abundance of knowledge from personal experiences in life and interacting with people akin to geniuses. 
 
-For now, I will post my layout and my introduction. If the work ends up becoming too long, I may very well attempt to write it as a book and potentially get it published. Enjoy for the time being <3
+For now, I will post my layout and my introduction. If the work ends up becoming too long, I may very well attempt to write it as a book and potentially get it published. This will be wildly imperfect due to some formatting errors still present in the site, but enjoy for the time being <3
 
 
 Prologos - Introduction:
@@ -32,7 +32,7 @@ Arc 3 - It All Comes Tumbling Down:
 Epilogos - Conclusion
 
 
-
+**INTRODUCTION STARTS HERE:**
 
 In our current era, our enlightened society has liberated itself from the oppressive clutches of the Church. It is 2024, and our moral compass is no longer dictated by intrusive Priests, archaic Scholasticism, or mandatory Church service. We have emancipated ourselves from Papal despotism and the Gospels. The prophecy of Liberté has been fulfilled - we are finally free. Our enlightened society has slaughtered divinity and eradicated subserviency to enforced morality. Our modern ethics stands firm and proud. It is decided by enlightened and free individuals, beholden to each other and to “humanity”. We hold each other to account through universal morals, guided by ethical philosophy and ideals such as individual freedoms and the liberal nature of man, upheld by the sanctity of the Law. Our commitment to the Law is unwavering, it lays the basis of our sociality and encompasses our relationship with our fellow humans, and society at large.
 
