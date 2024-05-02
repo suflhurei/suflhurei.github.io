@@ -8,9 +8,9 @@ thumbnail: https://cdn.discordapp.com/attachments/1225957088354631760/1234306209
 
 To be Published: 
 
-This work will likely consist of a series of articles seperated into chapters. I am currently in the process of writing it down. The name is a placeholder for now, and is subject to change. This work is an expression of internal musings following years of reading about civilisation, history, politics, anthropology, and my abundance of knowledge from personal experiences in life and interacting with people akin to geniuses. 
+This work will likely consist of a series of articles seperated into chapters. I am currently in the process of writing it down. The name is a placeholder for now, and is subject to change. This work is an expression of internal musings following years of reading about civilisation, history, politics, anthropology, and my abundance of knowledge from personal experiences in life and interacting with companions I consider geniuses.
 
-For now, I will post my layout and my introduction. If the work ends up becoming too long, I may very well attempt to write it as a book and potentially get it published. This will be wildly imperfect due to some formatting errors still present in the site, but enjoy for the time being <3
+For now, I will post my layout and my introduction. If the work ends up becoming too long, I may very well attempt to write it as a book/treatise and potentially get it published. This will be wildly imperfect due to some formatting errors still present in the site, but enjoy for the time being <3
 
 
 Prologos - Introduction:
@@ -34,11 +34,11 @@ Arc 2 - The Enlightened Perceive of Neo-Divinity:
 
 Arc 3 - It All Comes Tumbling Down:
 
-    - The Mask Cracks - Trouble in the Holy Land:
+    - Part One: The Mask Cracks - Trouble in the Holy Land:
 
-    - The Eastern Barbarian:
+    - Part Two: The Eastern Barbarian:
     
-    - Ashes to Ashes:
+    - Part Three: Ashes to Ashes:
 
 Epilogos - Conclusion
 
@@ -56,3 +56,7 @@ The first arc of my work will be titled: The Enlightened Slaughter Divinity - A 
 The second arc of my work will be titled “The Enlightened Perceive of Neo-Divinity”. It will explain the death and resurrection of the Divine. Entrenched in the post-Divine world was a divinity shrouded in secularism. The slogan “liberté, égalité, fraternité” itself was an immediate expression of the rebirth of divinity. The death of the Church in Europe was immediately replaced with neo-divinity in ethical philosophy and law. This time, it was affirmed most resolutely by the rising nation state - a new form of nationhood encompassing citizenship, national identity and constitutions. The section on “Our Pristine Aesthetic” will blend modern culture, art and identity to conclude that crypto-divinity is entrenched in an enlightened nation through subtler means. The resurrection of the Divine Right of Kings will also be covered considering its relevance.
 
 The final arc of my work will be titled “And It All Comes Tumbling Down”. The established order is undergoing a profound transformation. International and internal perceptions of neo-divinity have been eroded by trouble in the holy land (The Palestinian Conflict). The mask is finally cracking, and the new neo-divine experiment seems to be tumbling down. The Western world is tussling with the demonisation of its pristine aesthetic. Grappling with the rise of the barbarian from the occident, the proponents of neo-divinity end up cannibalising each other. A comparison will be made between the modern West, the Romans, and the Church, but it will not rely on one-to-one rhetorical poetry. As previously mentioned, the discipline of history and civilisation is both cyclical and linear and both will be taken into account. The Eastern Barbarian consists of two groups - the Chinese state and the Islamic Ummah (community), both will be explored in relation to divinity, the law, and their relation to Western neo-divinity.
+
+To Be Continued:
+
+~Zen Ghurkan~
