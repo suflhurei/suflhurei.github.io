@@ -1,5 +1,5 @@
 ---
-title: Law and Divinity - Rebranding the Holy and the Eastern Menace
+title: Divine Slaughter and the Eastern Barbarian- A Treatise
 author: Zen Ghurkan
 date: 2024-04-27
 description: The west claims to have ascended past the days of scholasticism and the backwardness of the Church - they have slaughtered divinity. But have they? Objective Morality persists, the Western church is rebranded, the neo-kings reign supreme and the Eastern Barbarian frightens us all. God has been replaced.
